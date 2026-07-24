@@ -3,7 +3,7 @@ dotenv.config();
 
 async function run() {
   const endpoint = "https://papa-ai-iq.search.windows.net/indexes/rag-1781309433060/docs/search?api-version=2024-07-01";
-  const apiKey = "1YsVO7udR7wy4AgkQ7iRj6q8BgL94Vy0XZ44ARDKt1AzSeA5AiVX";
+  const apiKey = "YOUR-API-KEY-HERE"; // Replace with your actual API key
 
   try {
     const response = await fetch(endpoint, {
