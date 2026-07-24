@@ -1,32 +1,20 @@
-# Equipo 20 — Desafío IA Bagó Perú 2026
+# Papita AI 🥔: Agente de IA para prevenir el burn-out en médicos (Desafío IA Bagó Perú 2026) 🧑‍⚕️
 
-## 1. Nombre de la solución
+<img src="papapng.png" style="height: 250px; display: block; margin: auto;">
 
-PapitaAI
-
-## 2. Integrantes
-
-| Nombre       | Rol                               | Correo                                          |
-| ------------ | --------------------------------- | ----------------------------------------------- |
-| Adrian Alejandro Leon Ojeda | Tecnología                        | [u202523195@upc.edu.pe](mailto:u202523195@upc.edu.pe) |
-| Camila Rocío Medina Valdivia | Salud             |                   [u202213953@upc.edu.pe](mailto:u202213953@upc.edu.pe) |
-| Diego Emerson Huayta Cordova | Tecnologia        |                 [u20251E660@upc.edu.pe](mailto:u20251E660@upc.edu.pe)      |
-| Ramiro Villasante Escalante | Negocios         | [u20211c770@upc.edu.pe](mailto:u20211c770@upc.edu.pe)                                                |
-| Rosa Paula Vásquez Arce  |  Salud          | [u202212723@upc.edu.pe](mailto:u202212723@upc.edu.pe)                                                |
-
-## 3. Problema identificado
+## Problema identificado
 
 Los médicos en etapas de crecimiento profesional enfrentan una alta carga laboral y agendas inestables que se gestionan de forma reactiva, lo que genera una falta de estructura y claridad sobre sus límites personales y una constante saturación mental. Este problema importa porque el agotamiento (burnout) no solo deteriora la salud del propio médico, sino que reduce su concentración, empatía y, en consecuencia, la calidad de la atención que brinda a sus pacientes. De no resolverse, el médico corre el riesgo de sufrir un desgaste crónico —caracterizado por agotamiento emocional, despersonalización y baja realización personal— que puede llevarlo, eventualmente, a abandonar la profesión.
 
-## 4. Solución propuesta
+## Solución propuesta
 
 Se trata de una aplicación móvil que acompaña la salud física y emocional del médico mediante inteligencia artificial, interpretando sus estados y ofreciéndole feedback significativo. Está dirigida al personal médico que se desempeña en entornos clínicos de alta presión. En cuanto a su uso, el médico realiza registros diarios rápidos (check-ins), y el sistema, a través de la IA, analiza estos datos para devolverle recomendaciones y micro hábitos personalizados. De esta manera, el valor que entrega es la prevención activa del burnout, la normalización del autocuidado y la provisión de herramientas para la toma de decisiones diarias, todo ello sin añadir carga administrativa adicional a su jornada. 
 
-## 5. Diferencial de la solución
+## Diferencial de la solución
 
 Nuestra propuesta se distingue por una experiencia conversacional centrada en "Papita", un personaje virtual que refleja dinámicamente el estado emocional del médico, generando una conexión cercana y empática. El diseño tiene un enfoque en salud sustentado en dimensiones psicométricas validadas —Agotamiento Emocional, Despersonalización y Realización Personal—, lo que dota a la herramienta de rigor clínico. A esto se suma la automatización, mediante la capacidad de generar recomendaciones personalizadas y alertas tempranas ante indicios de crisis a partir del registro diario del usuario. Finalmente, todo se apoya en la simplicidad: registros rápidos de menos de 30 segundos, pensados para adaptarse a la realidad de los turnos médicos sin añadir carga al usuario.
 
-## 6. Arquitectura técnica (resumen)
+## Arquitectura técnica (resumen)
 
 ```text
 Usuario
@@ -54,7 +42,7 @@ Backend / API (Express sobre Node, server.ts)
 
 El detalle completo debe ir en [`docs/arquitectura.md`](docs/arquitectura.md).
 
-## 7. Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 La aplicación puede abrirse directamente en este link:
 https://papitaai-183061386202.us-east1.run.app
@@ -153,7 +141,7 @@ npm run lint       # chequeo de tipos (tsc --noEmit)
 npm run clean      # elimina dist/
 ```
 
-## 8. Variables de entorno
+## Variables de entorno
 
 Crear un archivo `.env` copiando la plantilla:
 
@@ -165,7 +153,7 @@ Completar los valores localmente. **No subir credenciales reales al repositorio.
 
 Referencia de variables disponibles: [`.env.example`](.env.example).
 
-## 9. Demo
+## Demo
 
 ```text
 La demo se abre en el mismo link de la aplicación: https://papitaai-183061386202.us-east1.run.app/
@@ -180,35 +168,20 @@ Las evidencias visuales (capturas, GIFs, videos cortos) deben colocarse en:
 assets/demo/
 ```
 
-## 10. Limitaciones conocidas
+## Limitaciones conocidas
 
 Indicar qué quedó pendiente, qué restricciones tiene la solución o qué depende de datos/servicios externos.
 
 Quedó pendiente el chatvoz
 
-## 11. Próximos pasos
+## Próximos pasos
 
 El modelo presenta una propuesta sólida en términos de sostenibilidad y escalabilidad. En cuanto a sostenibilidad, genera un triple impacto positivo: beneficia al médico al proteger su salud mental, al paciente al garantizarle una atención segura y empática, y a la clínica al reducir costos ocultos por rotación de personal y riesgos legales; todo esto mediante una suscripción recurrente de apenas 10 dólares mensuales por cada millón de tokens, con un ROI claro y medible en el corto plazo que elimina la dependencia de subsidios. En cuanto a escalabilidad, la arquitectura basada en la nube y en modelos de lenguaje permite un crecimiento masivo e inmediato en el componente tecnológico, mientras que el principal desafío operativo radica en la integración con los sistemas de historias clínicas electrónicas de cada institución y en el costo variable del consumo de tokens a gran escala, reto que se planea resolver mediante la creación de conectores universales compatibles con los sistemas de gestión hospitalaria más utilizados del mercado.
 
-## 12. Entrega final
 
-Antes del cierre, verificar que el repositorio tenga:
+## Disclaimer
 
-* Código fuente en `src/`.
-* Notebooks de exploración o prototipos en `notebooks/` (si aplica).
-* Documentación técnica en `docs/`.
-* Evidencia de demo en `assets/demo/`.
-* Instrucciones claras de ejecución en este README.
-* Variables de entorno documentadas en `.env.example`.
-* Sin credenciales reales ni archivos sensibles.
-
-## 13. Propiedad intelectual y uso del repositorio
-
-El contenido de este repositorio (código, documentación, assets y demás materiales) se desarrolla en el marco del **Desafío IA Bagó Perú 2026**. Su uso se rige por las **bases oficiales** del evento y las condiciones que allí se establezcan.
-
-**No se autoriza** la reutilización, copia, publicación, distribución ni explotación de este contenido fuera del contexto de la hackatón sin la **autorización correspondiente** de los organizadores y/o del equipo titular, según corresponda.
-
-Los equipos deben respetar la confidencialidad de datos, credenciales y material proporcionado durante el evento.
-
-
-Los equipos deben respetar la confidencialidad de datos, credenciales y material proporcionado durante el evento.
+Duplicado del repositorio original usado para la Hackathon:
+```bash
+https://github.com/Hackathon-Bago-2026/equipo-21    # (Privado)
+```
