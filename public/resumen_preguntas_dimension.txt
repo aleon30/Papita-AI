@@ -1,0 +1,114 @@
+[RESUMEN DE PREGUNTAS MBI POR DIMENSIÓN - DR. DIEGO]
+
+--- DIMENSIÓN 1: AGOTAMIENTO EMOCIONAL (AE) ---
+Descripción: Evalúa la sensación de estar exhausto o vacío de recursos emocionales por el trabajo continuo.
+Escala: 0 (Nunca) a 6 (Todos los días). Puntajes altos (>4.5) indican alto agotamiento.
+
+Preguntas y Puntuaciones Diarias (Lunes a Domingo):
+Pregunta 1 (AE_inicio): ¿Llegaste a tu turno ya sintiéndote fatigado?
+- Lunes: 4.5
+- Martes: 5.0
+- Miércoles: 4.8
+- Jueves: 5.2
+- Viernes: 5.5
+- Sábado: 4.0
+- Domingo: 3.5
+- Promedio Semanal: 4.64 / 6 (Nivel Alto)
+
+Pregunta 2 (AE_mitad): ¿Sientes que el ritmo continuo de atenciones te resulta agotador?
+- Lunes: 4.8
+- Martes: 5.2
+- Miércoles: 5.0
+- Jueves: 5.4
+- Viernes: 5.8
+- Sábado: 4.2
+- Domingo: 3.8
+- Promedio Semanal: 4.88 / 6 (Nivel Alto)
+
+Pregunta 3 (AE_final): Al concluir tu turno hoy, ¿te has sentido extremadamente cansado?
+- Lunes: 5.0
+- Martes: 5.5
+- Miércoles: 5.2
+- Jueves: 5.8
+- Viernes: 6.0
+- Sábado: 4.5
+- Domingo: 4.0
+- Promedio Semanal: 5.14 / 6 (Nivel Alto)
+
+-- PROMEDIO TOTAL DE AGOTAMIENTO EMOCIONAL: 4.89 / 6 (Alerta: Agotamiento Emocional Alto) --
+
+
+--- DIMENSIÓN 2: DESPERSONALIZACIÓN (DP) ---
+Descripción: Evalúa actitudes de frialdad, distanciamiento o respuestas impersonales hacia los pacientes.
+Escala: 0 (Nunca) a 6 (Todos los días). Puntajes medianos-altos (>2.5) indican distanciamiento.
+
+Preguntas y Puntuaciones Diarias (Lunes a Domingo):
+Pregunta 1 (DP_inicio): ¿Te preocupa que hoy la fatiga o sobrecarga te dificulte conectar con tus pacientes?
+- Lunes: 2.0
+- Martes: 2.5
+- Miércoles: 3.0
+- Jueves: 2.8
+- Viernes: 3.5
+- Sábado: 2.0
+- Domingo: 1.5
+- Promedio Semanal: 2.47 / 6 (Nivel Moderado)
+
+Pregunta 2 (DP_mitad): ¿Sientes que estás tratando a tus pacientes de manera más despersonalizada o fría por apuro?
+- Lunes: 2.2
+- Martes: 2.8
+- Miércoles: 3.2
+- Jueves: 3.0
+- Viernes: 3.8
+- Sábado: 2.2
+- Domingo: 1.8
+- Promedio Semanal: 2.71 / 6 (Nivel Moderado)
+
+Pregunta 3 (DP_final): Al terminar tu turno, ¿sientes que te cuesta mostrar empatía o preocupación real?
+- Lunes: 2.5
+- Martes: 3.2
+- Miércoles: 3.5
+- Jueves: 3.0
+- Viernes: 4.0
+- Sábado: 2.5
+- Domingo: 2.0
+- Promedio Semanal: 2.96 / 6 (Nivel Moderado)
+
+-- PROMEDIO TOTAL DE DESPERSONALIZACIÓN: 2.71 / 6 (Estado: Despersonalización Moderada) --
+
+
+--- DIMENSIÓN 3: REALIZACIÓN PERSONAL (RP) ---
+Descripción: Evalúa los sentimientos de autoeficacia, competencia y logro en el trabajo clínico (un puntaje alto es positivo).
+Escala: 0 (Nunca) a 6 (Todos los días). Puntajes altos (>4.0) indican buena realización y resiliencia.
+
+Preguntas y Puntuaciones Diarias (Lunes a Domingo):
+Pregunta 1 (RP_inicio): ¿Te sientes con energía y motivación hoy para generar un impacto positivo en tus pacientes?
+- Lunes: 4.2
+- Martes: 3.8
+- Miércoles: 3.5
+- Jueves: 3.6
+- Viernes: 3.0
+- Sábado: 4.5
+- Domingo: 4.8
+- Promedio Semanal: 3.91 / 6 (Nivel Moderado)
+
+Pregunta 2 (RP_mitad): ¿Sientes una satisfacción genuina en el consultorio al ver que logras entender de forma cercana lo que sienten?
+- Lunes: 4.4
+- Martes: 4.2
+- Miércoles: 4.0
+- Jueves: 4.1
+- Viernes: 3.6
+- Sábado: 4.6
+- Domingo: 5.0
+- Promedio Semanal: 4.27 / 6 (Nivel Alto)
+
+Pregunta 3 (RP_final): Al finalizar tu guardia hoy, ¿sientes una sensación valiosa de logro y realización con el cuidado brindado?
+- Lunes: 4.5
+- Martes: 4.0
+- Miércoles: 3.8
+- Jueves: 4.2
+- Viernes: 3.5
+- Sábado: 4.8
+- Domingo: 5.2
+- Promedio Semanal: 4.28 / 6 (Nivel Alto)
+
+-- PROMEDIO TOTAL DE REALIZACIÓN PERSONAL: 4.15 / 6 (Estado: Realización Personal Conservada/Favorable) --
